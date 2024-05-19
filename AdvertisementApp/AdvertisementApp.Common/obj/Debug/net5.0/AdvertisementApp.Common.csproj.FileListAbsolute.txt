@@ -1,0 +1,12 @@
+C:\Users\Nadi Alperhan\Desktop\AdvertisementApp\AdvertisementApp.Common\bin\Debug\net5.0\AdvertisementApp.Common.deps.json
+C:\Users\Nadi Alperhan\Desktop\AdvertisementApp\AdvertisementApp.Common\bin\Debug\net5.0\AdvertisementApp.Common.dll
+C:\Users\Nadi Alperhan\Desktop\AdvertisementApp\AdvertisementApp.Common\bin\Debug\net5.0\ref\AdvertisementApp.Common.dll
+C:\Users\Nadi Alperhan\Desktop\AdvertisementApp\AdvertisementApp.Common\bin\Debug\net5.0\AdvertisementApp.Common.pdb
+C:\Users\Nadi Alperhan\Desktop\AdvertisementApp\AdvertisementApp.Common\obj\Debug\net5.0\AdvertisementApp.Common.csproj.AssemblyReference.cache
+C:\Users\Nadi Alperhan\Desktop\AdvertisementApp\AdvertisementApp.Common\obj\Debug\net5.0\AdvertisementApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadi Alperhan\Desktop\AdvertisementApp\AdvertisementApp.Common\obj\Debug\net5.0\AdvertisementApp.Common.AssemblyInfoInputs.cache
+C:\Users\Nadi Alperhan\Desktop\AdvertisementApp\AdvertisementApp.Common\obj\Debug\net5.0\AdvertisementApp.Common.AssemblyInfo.cs
+C:\Users\Nadi Alperhan\Desktop\AdvertisementApp\AdvertisementApp.Common\obj\Debug\net5.0\AdvertisementApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\Nadi Alperhan\Desktop\AdvertisementApp\AdvertisementApp.Common\obj\Debug\net5.0\AdvertisementApp.Common.dll
+C:\Users\Nadi Alperhan\Desktop\AdvertisementApp\AdvertisementApp.Common\obj\Debug\net5.0\ref\AdvertisementApp.Common.dll
+C:\Users\Nadi Alperhan\Desktop\AdvertisementApp\AdvertisementApp.Common\obj\Debug\net5.0\AdvertisementApp.Common.pdb

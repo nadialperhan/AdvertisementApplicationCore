@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Advertisement.Dto/1.0.0": {
+        "runtime": {
+          "Advertisement.Dto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Advertisement.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

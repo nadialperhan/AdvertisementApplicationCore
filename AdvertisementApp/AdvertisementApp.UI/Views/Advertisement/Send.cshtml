@@ -1,0 +1,53 @@
+﻿@model AdvertisementAppUserCreateModel
+@{
+    Layout = "_Layout";
+}
+<form class="w-75 mx-auto p-3" asp-controller="Advertisement" asp-action="Send" method="post" enctype="multipart/form-data">
+    <input type="hidden" asp-for="@Model.AdvertisementId" value="@Model.AdvertisementId"  />
+    <input type="hidden" asp-for="@Model.AppUserId" value="@Model.AppUserId" />
+    @if (ViewBag.GenderId == (int)GenderType.Erkek)
+    {
+        <div class="mb-3">
+            <label>Askerlik Durumu</label>
+            <select onchange="setInputVisibility()" asp-items="ViewBag.MilitaryStatus" asp-for="@Model.MilitaryStatusID" class="form-select">
+            </select>
+        </div>
+        <div id="datediv" class="mb-3" style="display:none">
+            <label>Askerlik Tarihi</label>
+            <input type="date" asp-for="@Model.EndDate" class="form-control" />
+        </div>
+    }
+    else
+    {
+        <input type="hidden" asp-for="@Model.MilitaryStatusID" value="@((int)MilitaryStatusType.Muaf)" />
+    }
+    <div class="mb-3">
+        <label>İş Deneyiminiz</label>
+        <input type="number" asp-for="@Model.WorkExperience" class="form-control"/>
+    </div>
+    <div class="mb-3">
+        <label>Cv</label>
+        <input type="file" asp-for="@Model.CvFile" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <button type="submit" class="btn btn-primary">Kaydet</button>
+    </div>
+    <div asp-validation-summary="All" class="text-danger">
+    </div>
+</form>
+@section script{
+    <script>
+        setInputVisibility();
+        function setInputVisibility() {
+            var militarystatusId = document.getElementById("MilitaryStatusID").value;
+            //var militarystatusId = selectelement.value;
+            var datediv = document.getElementById("datediv");
+            if (militarystatusId == 2) {
+                datediv.style.display = "block";
+            }
+            else {
+                datediv.style.display = "none";
+            }
+        }
+    </script>
+}

@@ -1,0 +1,12 @@
+C:\Users\Nadi Alperhan\Desktop\AdvertisementApp\Advertisement.Dto\bin\Debug\net5.0\Advertisement.Dto.deps.json
+C:\Users\Nadi Alperhan\Desktop\AdvertisementApp\Advertisement.Dto\bin\Debug\net5.0\Advertisement.Dto.dll
+C:\Users\Nadi Alperhan\Desktop\AdvertisementApp\Advertisement.Dto\bin\Debug\net5.0\ref\Advertisement.Dto.dll
+C:\Users\Nadi Alperhan\Desktop\AdvertisementApp\Advertisement.Dto\bin\Debug\net5.0\Advertisement.Dto.pdb
+C:\Users\Nadi Alperhan\Desktop\AdvertisementApp\Advertisement.Dto\obj\Debug\net5.0\Advertisement.Dto.csproj.AssemblyReference.cache
+C:\Users\Nadi Alperhan\Desktop\AdvertisementApp\Advertisement.Dto\obj\Debug\net5.0\Advertisement.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadi Alperhan\Desktop\AdvertisementApp\Advertisement.Dto\obj\Debug\net5.0\Advertisement.Dto.AssemblyInfoInputs.cache
+C:\Users\Nadi Alperhan\Desktop\AdvertisementApp\Advertisement.Dto\obj\Debug\net5.0\Advertisement.Dto.AssemblyInfo.cs
+C:\Users\Nadi Alperhan\Desktop\AdvertisementApp\Advertisement.Dto\obj\Debug\net5.0\Advertisement.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Nadi Alperhan\Desktop\AdvertisementApp\Advertisement.Dto\obj\Debug\net5.0\Advertisement.Dto.dll
+C:\Users\Nadi Alperhan\Desktop\AdvertisementApp\Advertisement.Dto\obj\Debug\net5.0\ref\Advertisement.Dto.dll
+C:\Users\Nadi Alperhan\Desktop\AdvertisementApp\Advertisement.Dto\obj\Debug\net5.0\Advertisement.Dto.pdb
